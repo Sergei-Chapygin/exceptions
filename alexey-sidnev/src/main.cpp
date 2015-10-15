@@ -7,6 +7,8 @@
 #define TESTS_COUNT 10
 
 int main() {
+  printf("Exception test\n");
+
   A a;
   B b;
   srand(666);

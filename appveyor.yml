@@ -4,4 +4,4 @@ build:
   project: exceptions.sln
   verbosity: minimal
 on_success:
-- cmd: Release\alexey-sidnev.exe
+- cmd: run_all_release.bat
