@@ -26,10 +26,10 @@
     <ClCompile Include="src\tests.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1585F970-ABEF-43AE-94F0-3D84537AA7FB}</ProjectGuid>
+    <ProjectGuid>{312F7785-650E-466C-997C-8157482FC3CA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>exceptions</RootNamespace>
-    <ProjectName>alexey-sidnev</ProjectName>
+    <ProjectName>base-version</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
