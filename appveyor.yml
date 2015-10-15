@@ -7,3 +7,4 @@ before_build:
 - "python create_build_solution.py"
 on_success:
 - cmd: run_all_release.bat
+
